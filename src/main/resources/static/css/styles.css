@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+body {
+	margin-top: 50px;
+	text-align: center;
+	background-image: url("/image/bg.jpg");
+	background-size: cover;
+}
+
+h1 {
+	color: #140d61;
+	font-family: sans-serif;
+}
+
+h3 {
+	color: red;
+}
+
+select {
+	box-sizing: content-box;
+	padding: 3px 15px;
+}
+
+td {
+	text-align: left;
+}
+
+.tableclass {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+
+button {
+	color: #181c15;
+	background-color: #a8e66e;
+	width: 150px;
+	height: 40px;
+	margin: 30px;
+	border-radius: 15px;
+}
+
+#home {
+	float: right;
+	padding: 20px;
+}

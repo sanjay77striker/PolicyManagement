@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+body {
+	text-align: center;
+	margin-top: 50px;
+	background-image: url("/image/bg.jpg");
+	background-size: cover;
+	
+}
+
+h1 {
+	color: #140d61;
+	font-family: sans-serif;
+}
+
+#home {
+	float: right;
+	padding: 20px;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.tableclasstwo {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
